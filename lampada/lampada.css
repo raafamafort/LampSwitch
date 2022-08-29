@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black; 
+}
+
+.corpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+    gap: 100px;
+}
+
+#lampada{
+    width: 20%;
+}
+
+#interruptor{
+    width: 10%;
+}
+
+img{
+    user-select: none;
+
+}
